@@ -1,0 +1,2 @@
+Index,KernelName,gpu-id,queue-id,queue-index,pid,tid,grd,wgr,lds,scr,vgpr,sgpr,fbar,sig,obj,Wavefronts,VALUInsts,SALUInsts,SFetchInsts,MemUnitStalled,TCC_HIT[0],TCC_MISS[0]
+0,"kernel(int*, unsigned long*) [clone .kd]",0,0,0,708711,708714,1,1,0,0,20,24,0,0x0,0x7f1de0609640,1,20,18,1,0,0,1
